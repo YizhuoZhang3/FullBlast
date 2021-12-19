@@ -1,5 +1,7 @@
 # FullBlast Academy
 
+![](https://media.giphy.com/media/OKJr6gLAUZNdefzoRS/giphy.gif)
+
 Let's build a game!
 
 1. 🍴 Fork this repo to your own GitHub account (if you haven't done so already)
